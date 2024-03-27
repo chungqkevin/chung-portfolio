@@ -1,0 +1,53 @@
+{
+  "auth": {
+    "chungportfolio596a968c": {
+      "customAuth": false,
+      "dependsOn": [],
+      "frontendAuthConfig": {
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyCharacters": [],
+          "passwordPolicyMinLength": 8
+        },
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "socialProviders": [],
+        "usernameAttributes": [],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito"
+    }
+  },
+  "function": {
+    "chungportfolio83af0287": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_chungportfolio83af0287_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "chungportfolio83af0287"
+        }
+      ]
+    },
+    "AMPLIFY_function_chungportfolio83af0287_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "chungportfolio83af0287"
+        }
+      ]
+    }
+  }
+}

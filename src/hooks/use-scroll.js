@@ -18,13 +18,5 @@ export const useScrollPosition = () => {
     };
   }, [scrollPos]); // Include scrollPos in the dependency array
 
-  // Console log inside the useEffect to avoid unnecessary logging
-  useEffect(() => {
-    console.log(window.scrollY);
-    if (window.scrollY === 120) {
-      console.log("HITT");
-    }
-  }, [scrollPos]); // Include scrollPos in the dependency array
-
   return { scrollPos };
 };

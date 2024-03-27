@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chungportfolio-dev-42898-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267342752:role/amplify-chungportfolio-dev-42898-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267342752:role/amplify-chungportfolio-dev-42898-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-chungportfolio-dev-42898-deployment",
+      "UnauthRoleName": "amplify-chungportfolio-dev-42898-unauthRole",
+      "StackName": "amplify-chungportfolio-dev-42898",
+      "StackId": "arn:aws:cloudformation:us-west-1:533267342752:stack/amplify-chungportfolio-dev-42898/f47f7a10-ec83-11ee-84a3-066e95982eaf",
+      "AmplifyAppId": "d1ogirnntkoqg9"
+    },
+    "categories": {
+      "auth": {
+        "chungportfolio596a968c": {}
+      },
+      "function": {
+        "chungportfolio83af0287": {
+          "deploymentBucketName": "amplify-chungportfolio-dev-42898-deployment",
+          "s3Key": "amplify-builds/chungportfolio83af0287-6a66697863662f754f47-build.zip"
+        }
+      }
+    }
+  }
+}
