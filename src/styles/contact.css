@@ -1,0 +1,55 @@
+/* Contact Form Styles */
+.contact-form {
+  max-width: 400px;
+  margin: auto;
+  font-family: "Neue Haas Grotesk Display Pro", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 10px;
+  letter-spacing: .06em;
+  line-height: 1.6em;
+  text-transform: none;
+  color: rgba(0, 0, 0, .9);
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.contact-form textarea {
+  resize: vertical;
+  height: 150px;
+}
+
+.contact-form button {
+  background-color: transparent;
+  border: 1px solid #333;
+  color: #333;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.contact-form button:hover {
+  background-color: #333;
+  color: #fff;
+  border-color: transparent;
+}
+
+/* Media Query */
+@media screen and (max-width: 768px) {
+  .contact-form {
+      max-width: 300px;
+  }
+}

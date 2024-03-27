@@ -1,0 +1,72 @@
+/* Header Styles */
+.header {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.header h1 a {
+  font-size: xx-large;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 1;
+}
+
+.header h1 a:hover {
+  text-decoration: none;
+  color: #000000;
+  opacity: 0.5;
+}
+
+/* Navigation Styles */
+
+.nav-container{
+  width: 100%;
+  height: fit-content;
+  text-align: center;
+  display: contents;
+}
+.nav {
+  white-space: nowrap; /* Ensures the navigation links stay on one line */
+  overflow-x: auto; /* Enable horizontal scrolling if necessary */
+  -webkit-overflow-scrolling: touch; /* Enable smooth scrolling on iOS devices */
+}
+
+.nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Remove default margin */
+}
+
+.nav li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.nav button {
+  background: none;
+  border: none;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 16px;
+  transition: opacity 0.5s ease-in-out;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.nav button:hover {
+  color: #000000;
+  opacity: 0.5;
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .header h1{
+      margin-bottom: 2rem;
+    }
+}

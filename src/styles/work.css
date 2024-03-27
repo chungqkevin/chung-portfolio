@@ -1,0 +1,31 @@
+/* Work Container */
+.work-container,
+.work-item {
+    max-width: 100%;
+}
+
+.work-item {
+    margin-bottom: 2rem;
+}
+
+/* Work Image */
+.work-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+
+.work-image:hover,
+.slick-slide img:hover {
+    transform: translateY(10px);
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    /* Header styles for mobile */
+    .header {
+        margin: 10px 0;
+    }
+}
