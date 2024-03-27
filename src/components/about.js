@@ -6,9 +6,9 @@ function About() {
     <section className="about-container">
       <h2>About Me</h2>
       <p>
-        Thank you for viewing my portfolio. I'm Kevin Chung, a Developer and Project Manager with a background in computer science, data analytics, and fashion specific e-commerce.
+        Thank you for viewing my portfolio. I'm Kevin Chung, a Developer and Project Manager with backgrounds in computer science, data analytics, and fashion specific e-commerce.
         <br /><br />
-        Throughout my career, I have worn several hats, from building web applications and search engine optimizations to cultivating relationships with designers and producing collaborative projects.
+        Throughout my career, I have worn several hats, from building web applications and search engine optimization (SEO) to cultivating relationships with designers and producing collaborative projects.
         <br /><br />
         At Blue Owl, I led a variety of technical projects from concept to deployment, which you will find detailed in my works section below. My diverse tech stack, combined with my education in CS/Data Analytics, has equipped me to make strategic decisions based on facts and metrics.
         <br /><br />
