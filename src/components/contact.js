@@ -32,11 +32,11 @@ function Contact() {
       <form className="contact-form" ref={form} onSubmit={sendEmail}>
         <div>
           <label htmlFor="name">Name:</label>
-          <input type="text" id="name" name="name" required />
+          <input type="text" id="from_name" name="to_name" required /> {/* Change name attribute to "user_name" */}
         </div>
         <div>
           <label htmlFor="email">Email:</label>
-          <input type="email" id="email" name="email" required />
+          <input type="text" id="reply_to" name="reply_to" required /> {/* Change name attribute to "user_email" */}
         </div>
         <div>
           <label htmlFor="message">Message:</label>
