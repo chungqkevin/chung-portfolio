@@ -1,10 +1,13 @@
 import React from 'react';
 import '../styles/base.css'
+import LineSpacer from './line';
 
 function About() {
   return (
     <section className="about-container">
       <h2>About Me</h2>
+      <LineSpacer/>
+      <br/>
       <p>
         Thank you for viewing my portfolio. I'm Kevin Chung, a Developer and Project Manager with backgrounds in computer science, data analytics, and fashion specific e-commerce.
         <br /><br />

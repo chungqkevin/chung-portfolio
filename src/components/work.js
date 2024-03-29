@@ -1,10 +1,13 @@
 import React from 'react';
+import Line from './line';
 import { Carousel } from './carousel';
 import '../styles/work.css';
+
 function Work() {
   return (
     <div className="work-container">
       <h2>Works</h2>
+      <Line/>
       <div className="work-item">
         <h3 className="work-title">Denim Database and Search Engine</h3>
         <p className="work-description">Designed and implemented a proprietary search engine and database matching measurements to a dynamic list of denim styles.<br/><br/>Stack: Liquid, Node.js, Express, and MongoDB</p>

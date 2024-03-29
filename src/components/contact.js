@@ -1,4 +1,5 @@
 import React, { useRef } from 'react';
+import LineSpacer from './line';
 import emailjs from 'emailjs-com'; // Import emailjs library
 import '../styles/contact.css'; // Import the CSS file
 
@@ -29,6 +30,8 @@ function Contact() {
   return (
     <div className="contact-container">
       <h2>Leave a message: </h2>
+      <LineSpacer/>
+      <br/>
       <form className="contact-form" ref={form} onSubmit={sendEmail}>
         <div>
           <label htmlFor="name">Name:</label>
