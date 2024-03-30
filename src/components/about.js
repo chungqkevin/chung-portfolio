@@ -7,7 +7,6 @@ function About() {
     <section className="about-container">
       <h2>About</h2>
       <LineSpacer/>
-      <br/>
       <p>
         Welcome, and thank you for viewing my portfolio. I'm Kevin Chung, a Software Developer/Project Manager with backgrounds in computer science, data analytics, and fashion-specific e-commerce.
         <br /><br />
