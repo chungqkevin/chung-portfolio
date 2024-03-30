@@ -15,7 +15,7 @@
 .header h1 a:hover {
   text-decoration: none;
   color: #000000;
-  opacity: 0.5;
+  opacity: 1;
 }
 
 /* Navigation Styles */

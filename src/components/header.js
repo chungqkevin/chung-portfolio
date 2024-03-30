@@ -21,7 +21,7 @@ function Header(){
     <header className="header"> {/* Add class name for styling */}
     <div className = "nav-container">
       <h1>
-        <a href="/" className="header-link">Kevin Chung</a> {/* Add class name for styling */}
+        <a className="header-link">Kevin Chung</a> {/* Add class name for styling */}
       </h1>
       <nav className="nav"> {/* Add class name for styling */}
         <ul>
