@@ -23,7 +23,7 @@ function Work() {
       <div className="work-item">
         <h3 className="work-title">Papillon</h3>
         <p className="work-description">Webstore and side project created out of a desire to offer contemporary workwear manufactured in the USA and Japan.<br/><br/>Stack: MongoDB, Express, React, NodeJS, HTML, CSS, Javascript</p>
-        <a href="https://chungqkevin.github.io/papillon/" target="_blank" rel="noopener noreferrer">
+        <a href="https://papillonus.netlify.app/" target="_blank" rel="noopener noreferrer">
           <img src="/images/pap-hero.jpg" alt="Another Work Image" className="work-image" />
         </a>
       </div>
