@@ -17,7 +17,7 @@ function About() {
         In my projects, I aim to convey a narrative through code and design with data serving as the foundation.<br/>
         I am deeply passionate about lifelong learning. As an engineer learning new-technologies has always excited me as I strive to better my craft everyday. The ability to learn in both life and work has proven to keep me grounded in every step I take.
         <br /><br />
-        When I'm not working on projects or coding you can find me spending time with my cat, Miso and dog, Gamja.<br/>We enjoy basketball, photography, and sunny days.
+        When I'm not working on projects or coding you can find me spending time with my cat Miso and dog Gamja.<br/>We enjoy basketball, photography, and sunny days.
         <br /><br />
         I am currently open to new opportunities, whether they are tech or fashion-aligned.
         <br /><br />
