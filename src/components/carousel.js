@@ -56,7 +56,7 @@ export function Carousel() {
             src="/images/pbj-blog.jpg"
             alt="blog page example"
             className="carousel-image"
-            onClick={() => handleImageClick('https://www.blueowl.us/pages/blue-owl-x-pure-blue-japan-asagi-selvedge')}
+            onClick={() => handleImageClick('https://www.blueowl.us')}
           />
         </div>
         <div className={`slide ${currentIndex === 1 ? 'visible' : ''}`}>
@@ -64,7 +64,7 @@ export function Carousel() {
             src="/images/tenth-anni.jpg"
             alt="custom page example"
             className="carousel-image"
-            onClick={() => handleImageClick('https://www.blueowl.us/pages/10th-anniversary')}
+            onClick={() => handleImageClick('https://blueowl.us/blogs/news/how-to-soak-unsanforized-raw-denim')}
           />
         </div>
         <div className={`slide ${currentIndex === 2 ? 'visible' : ''}`}>
