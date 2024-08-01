@@ -53,26 +53,26 @@ export function Carousel() {
       <SwipeableViews index={currentIndex} onChangeIndex={handleChangeIndex} enableMouseEvents>
         <div className={`slide ${currentIndex === 0 ? 'visible' : ''}`}>
           <img
-            src="/images/tenth-anni.jpg"
+            src="/images/windthrow-collection.jpg"
             alt="blog page example"
             className="carousel-image"
-            onClick={() => handleImageClick('https://www.blueowl.us')}
+            onClick={() => handleImageClick('https://www.windthrow.store')}
           />
         </div>
         <div className={`slide ${currentIndex === 1 ? 'visible' : ''}`}>
           <img
-            src="/images/collection-ex.jpg"
+            src="/images/windthrow-home.jpg"
             alt="custom page example"
             className="carousel-image"
-            onClick={() => handleImageClick('https://www.blueowl.us/collections/new-arrivals')}
+            onClick={() => handleImageClick('https://windthrow.store/collections/new-arrivals')}
           />
         </div>
         <div className={`slide ${currentIndex === 2 ? 'visible' : ''}`}>
           <img
-            src="/images/pbj-blog.jpg"
+            src="/images/windthrow-blog.jpg"
             alt="collection page example"
             className="carousel-image"
-            onClick={() => handleImageClick('https://blueowl.us/blogs/news/how-to-soak-unsanforized-raw-denim')}
+            onClick={() => handleImageClick('https://windthrow.store/blogs/editorial/technicalities-san-san-gear-and-manastash')}
           />
         </div>
       </SwipeableViews>
