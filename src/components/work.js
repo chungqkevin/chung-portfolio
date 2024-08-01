@@ -14,7 +14,7 @@ function Work() {
         <p className="work-description">
           Created a database/search-engine matching measurements to a dynamic list of denim styles.
           <br /><br />
-          Stack: JavaScript, Node.js, SQL, Express, Liquid and MongoDB
+          Stack: JavaScript, Node.js, SQL, Express, CSS, Liquid and MongoDB
         </p>
         <a href="https://www.blueowl.us/pages/measurement-search" target="_blank" rel="noopener noreferrer">
           <img src="/images/denim-database-search.jpg" alt="Denim Search Engine" className="work-image" />
