@@ -32,7 +32,7 @@ function Work() {
       <div className="work-item">
         <h3 className="work-title">Windthrow Store</h3>
         <p className="work-description">
-          Built custom navigation, page templates, and product grids. Served as a consultant and engineer for SEO improvements and UX/UI design and implementations. 
+          Built custom navigation, page templates, and product cards/grids. Served as a consultant and engineer for SEO improvements and UX/UI design and implementations. 
           <br /><br />
           Stack: JavaScript, HTML, Liquid and CSS
         </p>
