@@ -8,6 +8,7 @@ function About() {
       <h2>About</h2>
       <LineSpacer/>
       <p>
+        <br />
         Welcome, and thank you for viewing my portfolio. I'm Kevin Chung, a Developer/Project Manager with backgrounds in computer science, data analytics, and e-commerce.
         <br /><br />
         Throughout my career, I have taken on various roles, spanning from building custom web applications, implementing search engine optimization (SEO) strategies, to fostering relationships with designers and producing collaborative projects.
