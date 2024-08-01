@@ -12,7 +12,7 @@ function Work() {
       <div className="work-item">
         <h3 className="work-title">Denim Database and Search Engine</h3>
         <p className="work-description">
-          Created a database/search-engine matching measurements to a dynamic list of denim styles.
+          Created a database/search-algorithm matching measurements to a dynamic list of denim styles.
           <br /><br />
           Stack: JavaScript, Node.js, SQL, Express, CSS, Liquid and MongoDB
         </p>
