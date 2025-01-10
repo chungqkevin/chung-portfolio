@@ -30,6 +30,17 @@ function Work() {
         <Carousel1 />
       </div>
       <div className="work-item">
+        <h3 className="work-title">Muok Boxing</h3>
+        <p className="work-description">
+          Full website redesign/overhaul for local Muay Thai boxing gym.
+          <br /><br />
+          Stack: HTML, CSS, and JavaScript
+        </p>
+        <a href="https://www.muokboxing.com" target="_blank" rel="noopener noreferrer">
+          <img src="/images/muok-home.jpg" alt="boxing homepage" className="work-image" />
+        </a>
+      </div>
+      <div className="work-item">
         <h3 className="work-title">Windthrow Store</h3>
         <p className="work-description">
           Built custom navigation, page templates, and product cards/grids. Served as a consultant and developer for SEO and UX/UI improvements. 
