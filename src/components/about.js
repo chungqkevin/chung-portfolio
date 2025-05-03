@@ -13,7 +13,7 @@ function About() {
         <br /><br />
         From a young age, I've been fascinated by both fashion and technology—an interest that evolved into a deep appreciation for how products and stories are presented through online and digital platforms.
         <br></br>
-        Having worked in fashion and e-commerce for near a decade, I have taken on various roles, spanning from building custom web applications, redesigning websites, implementing search engine optimization (SEO) strategies, to fostering relationships with designers and producing collaborative projects.
+        Having worked in fashion and e-commerce for over 10 years, I have taken on various roles, spanning from building custom web applications, redesigning websites, implementing search engine optimization (SEO) strategies, to fostering relationships with designers and producing collaborative projects.
         <br /><br />
         During my time at Blue Owl, I have led a variety of technical projects which you will find detailed in my works section below. My tech stack, combined with my education in Computer Science and Data Analytics, have equipped me to make strategic decisions based on facts and metrics.
         <br /><br />
@@ -24,7 +24,7 @@ function About() {
         <br /><br />
         I am currently open to new opportunities, whether they are tech or fashion-aligned.
         <br /><br />
-        Let's connect and innovate together!
+        Feel free to shoot me a message with any questions—happy to chat about anything, whether it's fashion, tech, or anything in between!
       </p>
     </section>
   );
