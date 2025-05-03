@@ -20,7 +20,9 @@ function About() {
         In my projects, I aim to convey a narrative through code and design with data serving as the foundation.<br/>
         I am deeply passionate about lifelong learning and driven by progression. As an engineer learning new-technologies has always excited me as I aim to better my craft everyday. The ability to learn in both life and work has proven to keep me grounded in every step I take.
         <br /><br />
-        When I'm not working on projects or coding you can find me spending time with my beautiful family and our pets Miso and Gamja.<br/>We enjoy basketball, photography, and sunny days.
+        I am extremely grateful to have developed a handful of meaningful connections through my proffesional endeavors. Some of the brands and people I've worked with include Engineered Garments, Merz b. Schwannen, Dehen 1920, Good Art Hollywood, Kaptain Sunshine, Addict Clothes Japan, UES, and South2 West8. 
+        <br /><br />
+        When I'm not working on projects or coding you can find me spending time with my beautiful family and our pets Miso and Gamja. We enjoy basketball, photography, and sunny days.
         <br /><br />
         Feel free to shoot me a message with any questions. Happy to chat about anything, whether it's fashion, tech, or anything in between!
       </p>
