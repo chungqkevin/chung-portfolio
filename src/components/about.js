@@ -22,9 +22,7 @@ function About() {
         <br /><br />
         When I'm not working on projects or coding you can find me spending time with my beautiful family and our pets Miso and Gamja.<br/>We enjoy basketball, photography, and sunny days.
         <br /><br />
-        I am currently open to new opportunities, whether they are tech or fashion-aligned.
-        <br /><br />
-        Feel free to shoot me a message with any questions—happy to chat about anything, whether it's fashion, tech, or anything in between!
+        Feel free to shoot me a message with any questions. Happy to chat about anything, whether it's fashion, tech, or anything in between!
       </p>
     </section>
   );
