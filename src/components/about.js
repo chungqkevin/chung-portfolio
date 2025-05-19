@@ -11,7 +11,7 @@ function About() {
         <br />
         Welcome - I'm Kevin Chung, a Developer/Project Manager currently based in Seattle with backgrounds in computer science, data analytics, and e-commerce.
         <br /><br />
-        From a young age, I've been fascinated by both fashion and technology—an interest that evolved into a deep appreciation for how products and stories are presented through online and digital platforms.<br/>
+        From a young age, I've been fascinated by both fashion and technology—an interest that evolved into a deep appreciation for how products and stories are presented through digital platforms.<br/>
         <br></br>
         Having worked in fashion and e-commerce for over 10 years, I have taken on various roles, spanning from building custom web applications, redesigning websites, implementing search engine optimization (SEO) strategies, to fostering relationships with designers and producing collaborative projects.
         <br /><br />
@@ -22,7 +22,7 @@ function About() {
         <br /><br />
         I am extremely grateful to have developed a handful of meaningful connections through my proffesional endeavors. Some of the brands and people I've worked with include Engineered Garments, Merz b. Schwannen, Dehen 1920, Good Art Hollywood, Kaptain Sunshine, Addict Clothes Japan, UES, and South2 West8. 
         <br /><br />
-        When I'm not working on projects or coding you can find me spending time with my beautiful family and our pets Miso and Gamja. We enjoy basketball, photography, and sunny days.
+        When I'm not working on projects or coding you can find me spending time with my family and our pets Miso and Gamja. We enjoy basketball, photography, and sunny days.
         <br /><br />
         Feel free to shoot me a message with any questions. Happy to chat about anything, whether it's fashion, tech, or anything in between!
       </p>
