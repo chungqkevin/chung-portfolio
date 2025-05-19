@@ -32,7 +32,7 @@ function Work() {
       <div className="work-item">
         <h3 className="work-title">Muok Boxing</h3>
         <p className="work-description">
-          Full website redesign/overhaul for local Muay Thai boxing gym.
+          Website redesign/overhaul for local Muay Thai boxing gym.
           <br /><br />
           Stack: HTML, CSS, and JavaScript
         </p>

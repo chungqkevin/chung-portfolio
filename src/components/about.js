@@ -9,9 +9,9 @@ function About() {
       <LineSpacer/>
       <p>
         <br />
-        Welcome - I'm Kevin Chung, a Developer/Project Manager currently based in Seattle with backgrounds in computer science, data analytics, and e-commerce.
+        Hello - I'm Kevin Chung, a Developer/Project Manager currently based in Seattle with backgrounds in computer science, data analytics, and e-commerce.
         <br /><br />
-        From a young age, I've been fascinated by both fashion and technology—an interest that evolved into a deep appreciation for how products and stories are presented through digital platforms.<br/>
+        From a young age, I've been fascinated by both fashion and technology — an interest that evolved into a deep appreciation for how products and stories are presented through digital platforms.<br/>
         <br></br>
         Having worked in fashion and e-commerce for over 10 years, I have taken on various roles, spanning from building custom web applications, redesigning websites, implementing search engine optimization (SEO) strategies, to fostering relationships with designers and producing collaborative projects.
         <br /><br />
