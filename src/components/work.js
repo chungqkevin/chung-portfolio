@@ -36,7 +36,7 @@ function Work() {
           <br /><br />
           Stack: HTML, CSS, and JavaScript
         </p>
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a target="_blank" rel="noopener noreferrer">
           <img src="/images/muok-home.jpg" alt="boxing homepage" className="work-image" />
         </a>
       </div>
