@@ -30,17 +30,6 @@ function Work() {
         <Carousel1 />
       </div>
       <div className="work-item">
-        <h3 className="work-title">Muok Boxing</h3>
-        <p className="work-description">
-          Website redesign/overhaul for local Muay Thai boxing gym.
-          <br /><br />
-          Stack: HTML, CSS, and JavaScript
-        </p>
-        <a target="_blank" rel="noopener noreferrer">
-          <img src="/images/muok-home.jpg" alt="boxing homepage" className="work-image" />
-        </a>
-      </div>
-      <div className="work-item">
         <h3 className="work-title">Windthrow Store</h3>
         <p className="work-description">
           Built custom navigation, page templates, and product cards/grids. Served as a consultant and developer for SEO and UX/UI improvements. 
@@ -48,6 +37,17 @@ function Work() {
           Stack: JavaScript, HTML, Liquid and CSS
         </p>
         <Carousel2 />
+      </div>
+      <div className="work-item">
+        <h3 className="work-title">Muok Boxing</h3>
+        <p className="work-description">
+          Website redesign and overhaul for Muay Thai boxing gym.
+          <br /><br />
+          Stack: HTML, CSS, and JavaScript
+        </p>
+        <a target="_blank" rel="noopener noreferrer">
+          <img src="/images/muok-home.jpg" alt="boxing homepage" className="work-image" />
+        </a>
       </div>
       <div className="work-item">
         <h3 className="work-title">Papillon</h3>
